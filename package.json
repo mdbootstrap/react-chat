@@ -2,7 +2,6 @@
   "name": "@mdbootstrap/react-chat",
   "version": "1.0.0",
   "description": "template for mdb-react-ui-kit",
-  "private": true,
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
