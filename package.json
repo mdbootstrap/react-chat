@@ -1,6 +1,6 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
+  "name": "@mdbootstrap/react-chat",
+  "version": "1.0.0",
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
@@ -19,7 +19,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "chat"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -34,5 +42,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-chat/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/chat"
 }
